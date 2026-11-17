@@ -29,7 +29,7 @@ export default function Home() {
       </section>
 
       <section className="mission-strip">
-        <p>Quality meals.</p><span>✦</span><p>Chef-created.</p><span>✦</span><p>Scratch-made.</p>
+        <p>Freshly prepared.</p><span>✦</span><p>Chef-created.</p><span>✦</span><p>Quality meals.</p>
       </section>
 
       <section className="pilot-note">
