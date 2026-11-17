@@ -135,8 +135,9 @@ export function Footer() {
   return (
     <footer>
       <div className="footer-brand"><img src="/mission-meals-logo.png" alt="Mission Meals" /><span>Serving Those<br />Who Served</span></div>
-      <div className="footer-nonprofit"><p>Mission Meals, Inc. is a Georgia<br />501(c)(3) nonprofit organization.</p><a className="facebook-follow" href="https://www.facebook.com/missionmealsinc" target="_blank" rel="noopener noreferrer" aria-label="Follow Mission Meals on Facebook"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false"><path fill="#1877F2" d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047v-2.66c0-3.025 1.792-4.697 4.533-4.697 1.312 0 2.686.236 2.686.236v2.971h-1.513c-1.49 0-1.956.931-1.956 1.887v2.263h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z" /></svg><span>Follow Us</span></a></div>
-      <div className="footer-links"><a href="/about">About &amp; Contact</a><a href="/donate">Donate</a><a href="mailto:missionmeals@missionmeals.net">missionmeals@missionmeals.net</a></div>
+      <div className="footer-nonprofit"><p>Mission Meals, Inc. is a Georgia<br />501(c)(3) nonprofit organization.</p></div>
+      <div className="footer-social"><a className="facebook-follow" href="https://www.facebook.com/missionmealsinc" target="_blank" rel="noopener noreferrer" aria-label="Follow Mission Meals on Facebook"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false"><path fill="#1877F2" d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047v-2.66c0-3.025 1.792-4.697 4.533-4.697 1.312 0 2.686.236 2.686.236v2.971h-1.513c-1.49 0-1.956.931-1.956 1.887v2.263h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z" /></svg><span>Follow Us</span></a></div>
+      <div className="footer-links"><a href="/donate">Donate</a><a href="/about">About &amp; Contact</a><a href="mailto:missionmeals@missionmeals.net">missionmeals@missionmeals.net</a></div>
     </footer>
   );
 }
