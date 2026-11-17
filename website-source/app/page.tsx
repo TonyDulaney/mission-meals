@@ -135,7 +135,7 @@ export function Footer() {
   return (
     <footer>
       <div className="footer-brand"><img src="/mission-meals-logo.png" alt="Mission Meals" /><span>Serving Those<br />Who Served</span></div>
-      <p>Mission Meals, Inc. is a recognized<br />501(c)(3) nonprofit organization.</p>
+      <p>Mission Meals, Inc. is a Georgia<br />501(c)(3) nonprofit organization.</p>
       <div className="footer-links"><a href="/about">About &amp; Contact</a><a href="/donate">Donate</a><a href="https://www.facebook.com/missionmealsinc" target="_blank" rel="noopener noreferrer">Facebook</a><a href="mailto:missionmeals@missionmeals.net">missionmeals@missionmeals.net</a></div>
     </footer>
   );
