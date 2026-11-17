@@ -13,7 +13,7 @@ export default function Home() {
           <nav aria-label="Main navigation">
             <a href="/">Home</a>
             <a href="/about">About</a>
-            <a href="/media">Media &amp; News</a><a href="/about#contact">Contact</a>
+            <a href="/media">Media</a><a href="/about#contact">Contact</a>
             <a className="nav-donate" href="/donate">Donate</a>
           </nav>
         </header>

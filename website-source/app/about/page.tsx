@@ -5,7 +5,7 @@ export default function About() {
     <main>
       <header className="site-header inner-header">
         <a className="brand" href="/"><img src="/mission-meals-logo.png" alt="Mission Meals" /><span className="brand-tag">Serving Those Who Served</span></a>
-        <nav><a href="/">Home</a><a href="/about">About</a><a href="/media">Media &amp; News</a><a href="/about#contact">Contact</a><a className="nav-donate" href="/donate">Donate</a></nav>
+        <nav><a href="/">Home</a><a href="/about">About</a><a href="/media">Media</a><a href="/about#contact">Contact</a><a className="nav-donate" href="/donate">Donate</a></nav>
       </header>
       <section className="page-hero about-hero">
         <img src="/tony-hero-clean.png" alt="Chef Tony Dulaney preparing chicken in the kitchen" />
