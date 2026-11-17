@@ -12,7 +12,7 @@ export default function About() {
         <div>
           <p className="eyebrow">About Mission Meals</p>
           <h1>A good meal can be a lifeline.</h1>
-          <p>Mission Meals began with a simple belief: people who have served others should not face difficult seasons alone.</p>
+          <p>Mission Meals began with a simple belief: After serving our country and our communities, veterans and first responders should not have to face difficult seasons alone.</p>
         </div>
       </section>
       <section className="section story-grid">
