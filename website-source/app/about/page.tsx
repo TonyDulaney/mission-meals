@@ -5,7 +5,7 @@ export default function About() {
     <main>
       <header className="site-header inner-header">
         <a className="brand" href="/"><img src="/mission-meals-logo.png" alt="Mission Meals" /><span className="brand-tag">Serving Those Who Served</span></a>
-        <nav><a href="/">Home</a><a href="/about">About</a><a href="/media">Media</a><a href="/about#contact">Contact</a><a className="nav-donate" href="/donate">Donate</a></nav>
+        <nav><a href="/">Home</a><a href="/about">About</a><a href="/media">Media</a><a href="/about#contact">Contact</a><a className="facebook-follow" href="https://www.facebook.com/missionmealsinc" target="_blank" rel="noopener noreferrer" aria-label="Follow Mission Meals on Facebook"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false"><path fill="#1877F2" d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047v-2.66c0-3.025 1.792-4.697 4.533-4.697 1.312 0 2.686.236 2.686.236v2.971h-1.513c-1.49 0-1.956.931-1.956 1.887v2.263h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z" /></svg><span>Follow Us</span></a><a className="nav-donate" href="/donate">Donate</a></nav>
       </header>
       <section className="page-hero about-hero">
         <img src="/tony-hero-clean.png" alt="Chef Tony Dulaney preparing chicken in the kitchen" />
