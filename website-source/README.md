@@ -31,3 +31,5 @@ The possible additional American Legion newsletter is not part of the approved l
 ## Reference sheet reminder
 
 Remind Caryn to return to her original ChatGPT conversation to update and finalize the Mission Meals Website & Email Reference Sheet. Namecheap was previously identified as the domain registrar, but the current domain account and email hosting settings were not independently verified in this update.
+
+Magazine display updated November 17: show each front cover with selected coverage. The Constitutional Defender uses printed page 41 only; Live Free uses the existing Tony/Jean photograph only. Do not link either entry to a full magazine PDF.

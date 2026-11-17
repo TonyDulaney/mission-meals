@@ -156,3 +156,13 @@ footer strong,footer span { display:block; } footer strong { color:white; font-s
 .media-print-photo { height:520px; overflow:hidden; position:relative; }
 .media-print-photo img { position:absolute; width:132%; max-width:none; height:auto; left:-16%; top:-6%; }
 @media(max-width:620px) { .media-photo-feature { grid-template-columns:1fr; gap:24px; }.media-print-photo { height:400px; } }
+
+.media-magazine-feature { display:grid; grid-template-columns:minmax(180px,300px) minmax(0,1fr); gap:40px; align-items:start; margin-top:52px; padding-top:36px; border-top:1px solid #ddd; }
+.media-magazine-feature h2 { font-size:30px; line-height:1.25; margin:12px 0; }
+.media-magazine-feature p { line-height:1.7; }
+.media-magazine-feature a { color:var(--navy); text-decoration:underline; text-underline-offset:4px; }
+.magazine-cover img { display:block; width:100%; height:auto; box-shadow:0 4px 18px #0002; }
+.magazine-clipping { display:block; margin-top:24px; max-width:560px; }
+.magazine-clipping img { display:block; width:100%; height:auto; border:1px solid #ddd; }
+.magazine-photo { margin-top:24px; max-width:560px; }
+@media(max-width:620px) { .media-magazine-feature { grid-template-columns:1fr; gap:24px; }.magazine-cover { max-width:240px; }.media-magazine-feature h2 { font-size:26px; } }
