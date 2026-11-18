@@ -9,7 +9,7 @@ export default function Media() {
     <section className="section">
       <div className="center-heading"><p className="eyebrow">Mission Meals</p><h1>Media &amp; News</h1><p>Coverage of the people and work behind Mission Meals.</p></div>
       <p>Some coverage below describes the early pilot program at American Legion Post 9. Mission Meals, Inc. is now an independent 501(c)(3) nonprofit organization.</p>
-      <p>Contact information in the articles below may be outdated. For current Mission Meals, Inc. contact information, see our <a href="/about#contact">About &amp; Contact page</a>.</p>
+      <p><strong>Contact information in the articles below may be outdated.</strong><br />For current Mission Meals, Inc. contact information, see our <a href="/about#contact"><strong>About &amp; Contact</strong> page</a>.</p>
       <div className="support-grid media-coverage">
 <article><span>The Brunswick News · June 20, 2026</span><h3>Mission Meals provide delicious food for veterans</h3><p>Terry Dickson’s coverage of the chef-prepared meals and the people behind the pilot program.</p><div className="media-links"><a href="/media/Mission_Meals_Brunswick_News_Clean_Article.pdf" target="_blank" rel="noopener noreferrer">Read the article with photo (PDF) →</a><a href="/media/brunswick-news-print.html" target="_blank" rel="noopener noreferrer">View original print coverage →</a></div></article>
 
