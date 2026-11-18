@@ -61,6 +61,7 @@ export default function Home() {
         <blockquote>“To provide chef-created quality meals to veterans, first responders, and others facing times of stress, hardship, recovery, or need.”</blockquote>
       </section>
 
+      {/* Archived homepage partner sections. Remove this comment wrapper to restore.
       <section className="partner-section" id="partner">
         <div className="partner-intro">
           <p className="eyebrow">Partner with Mission Meals</p>
@@ -94,6 +95,7 @@ export default function Home() {
           across our website, social media, news, and publications.
         </p>
       </section>
+      */}
 
       <section className="section kitchen-section" id="kitchen">
         <div className="kitchen-card">
